@@ -1,0 +1,46 @@
+.body-img {
+    height: 100vh;
+    background-image: url("https://www.fjords.com/wp-content/uploads/2018/09/DSC_1761-2000x1200.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+}
+
+.body-img2 {
+    height: 100vh;
+    background-image: url("https://images2.alphacoders.com/106/thumb-1920-106330.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+}
+
+.body-img3 {
+    height: 100vh;
+    background-image: url("https://assetstorev1-prd-cdn.unity3d.com/key-image/d14c5972-50ff-428e-bb55-26e84b3af428.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+}
+
+.container {
+    position: absolute;
+    top: 15%;
+    left: 10vw;
+    width: 80vw;
+    height: 100%;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.85) !important;
+}
+
+button {
+    margin: 10px;
+    width: 180px;
+}
